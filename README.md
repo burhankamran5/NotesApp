@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/burhankamran0076/NotesApp.git
 Open Android Studio and import the project.
 Build the project to resolve any dependencies.
 Connect your Android device or start an emulator.
